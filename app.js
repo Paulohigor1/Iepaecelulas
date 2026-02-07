@@ -29,8 +29,8 @@ const CELLS = [
   {
     name: "EMANUEL",
     address: "Rua José Nicásio, 2 - Morro do Moreno, Angra dos Reis - RJ",
-    lat: -23.0057347,
-    lng: -44.3157591
+    lat: -22.98826,
+    lng: -44.24115
   },
   {
     name: "EFATÁ",
